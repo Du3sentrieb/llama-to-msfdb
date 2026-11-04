@@ -1,10 +1,8 @@
 {
   "mcpServers": {
     "msfdb": {
-      "command": "~/llama-to-msfdb/msf-ai/.venv/bin/python",
-      "args": [
-        "~/llama-to-msfdb/msf-ai/server.py"
-      ]
+      "command": "/home/dan/llama-to-msfdb/msf-ai/.venv/bin/python",
+      "args": ["/home/dan/llama-to-msfdb/msf-ai/server.py"]
     }
   }
 }
