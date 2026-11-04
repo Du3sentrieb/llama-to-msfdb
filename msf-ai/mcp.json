@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "msfdb": {
+      "command": "~/llama-to-msfdb/msf-ai/.venv/bin/python",
+      "args": [
+        "~/llama-to-msfdb/msf-ai/server.py"
+      ]
+    }
+  }
+}
